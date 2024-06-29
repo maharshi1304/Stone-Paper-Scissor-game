@@ -1,1 +1,2 @@
 # Stone-Paper-Scissor-game
+The Rock-Paper-Scissors game is a simple web application built using HTML, CSS, and JavaScript. Players select rock, paper, or scissors by clicking buttons. The computer randomly chooses an option as well. The game then displays the result based on the rules: rock beats scissors, scissors beats paper, and paper beats rock. This interactive game helps users practice fundamental web development skills.
